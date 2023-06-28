@@ -1,6 +1,7 @@
 Testando atualização de arquivos !!! Altere
 kkkkk
 kkkkk
-a
+a -Nova Feature
+New Feature
 b
 C
